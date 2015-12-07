@@ -261,218 +261,218 @@
     <edges>
       <edge id="0" source="Turkey" target="Syria">
         <attvalues>
-          <attvalue for="2" value="4.0" />
-          <attvalue for="3" value="19.0" />
+          <attvalue for="2" value="2.0" />
+          <attvalue for="3" value="17.0" />
           <attvalue for="4" value="Syrian-Turkish border clashes (2012-14)" />
         </attvalues>
       </edge>
       <edge id="1" source="Bangladesh" target="India">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="22.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="20.0" />
           <attvalue for="4" value="2001 Indian-Bangladeshi border conflict" />
         </attvalues>
       </edge>
       <edge id="2" source="Eritrea" target="Ethiopia">
         <attvalues>
-          <attvalue for="2" value="4.0" />
-          <attvalue for="3" value="70002.0" />
+          <attvalue for="2" value="2.0" />
+          <attvalue for="3" value="70000.0" />
           <attvalue for="4" value="Eritrean-Ethiopian War" />
         </attvalues>
       </edge>
       <edge id="3" source="Eritrea" target="Djibouti">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="146.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="144.0" />
           <attvalue for="4" value="2008 Djiboutian-Eritrean border conflict" />
         </attvalues>
       </edge>
       <edge id="4" source="Sudan" target="South Sudan">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="264.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="262.0" />
           <attvalue for="4" value="2012 South Sudan-Sudan border conflict" />
         </attvalues>
       </edge>
       <edge id="5" source="Lebanon" target="Israel">
         <attvalues>
-          <attvalue for="2" value="8.0" />
-          <attvalue for="3" value="32.0" />
+          <attvalue for="2" value="6.0" />
+          <attvalue for="3" value="30.0" />
           <attvalue for="4" value="2000-2006 Shebaa Farms conflict" />
         </attvalues>
       </edge>
       <edge id="6" source="Mali" target="Burkina Faso">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="181.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="179.0" />
           <attvalue for="4" value="Agacher Strip War" />
         </attvalues>
       </edge>
       <edge id="7" source="Mongolia" target="Manchukuo">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="8" source="Mongolia" target="Japan">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="9" source="Mongolia" target="Soviet Union">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="10" source="Ethiopia" target="Somalia">
         <attvalues>
-          <attvalue for="2" value="2.0" />
+          <attvalue for="2" value="0.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="1982 Ethiopian-Somali Border War" />
         </attvalues>
       </edge>
       <edge id="11" source="Slovakia" target="Hungary">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="68.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="66.0" />
           <attvalue for="4" value="Slovak-Hungarian War" />
         </attvalues>
       </edge>
       <edge id="12" source="Peru" target="Bolivia">
         <attvalues>
-          <attvalue for="2" value="6.0" />
-          <attvalue for="3" value="13002.0" />
+          <attvalue for="2" value="4.0" />
+          <attvalue for="3" value="13000.0" />
           <attvalue for="4" value="War of the Pacific" />
         </attvalues>
       </edge>
       <edge id="13" source="Peru" target="Ecuador">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="452.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="450.0" />
           <attvalue for="4" value="Cenepa War" />
         </attvalues>
       </edge>
       <edge id="14" source="Peru" target="Chile">
         <attvalues>
-          <attvalue for="2" value="6.0" />
-          <attvalue for="3" value="13002.0" />
+          <attvalue for="2" value="4.0" />
+          <attvalue for="3" value="13000.0" />
           <attvalue for="4" value="War of the Pacific" />
         </attvalues>
       </edge>
       <edge id="15" source="Laos" target="Thailand">
         <attvalues>
-          <attvalue for="2" value="3.0" />
-          <attvalue for="3" value="1002.0" />
+          <attvalue for="2" value="1.0" />
+          <attvalue for="3" value="1000.0" />
           <attvalue for="4" value="Thai-Laotian Border War" />
         </attvalues>
       </edge>
       <edge id="16" source="Bolivia" target="Paraguay">
         <attvalues>
-          <attvalue for="2" value="5.0" />
-          <attvalue for="3" value="100002.0" />
+          <attvalue for="2" value="3.0" />
+          <attvalue for="3" value="100000.0" />
           <attvalue for="4" value="Chaco War" />
         </attvalues>
       </edge>
       <edge id="17" source="Bolivia" target="Chile">
         <attvalues>
-          <attvalue for="2" value="6.0" />
-          <attvalue for="3" value="13002.0" />
+          <attvalue for="2" value="4.0" />
+          <attvalue for="3" value="13000.0" />
           <attvalue for="4" value="War of the Pacific" />
         </attvalues>
       </edge>
       <edge id="18" source="Manchukuo" target="Japan">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="19" source="Manchukuo" target="Soviet Union">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="20" source="Iran" target="Iraq">
         <attvalues>
-          <attvalue for="2" value="10.0" />
-          <attvalue for="3" value="3.0" />
+          <attvalue for="2" value="8.0" />
+          <attvalue for="3" value="1.0" />
           <attvalue for="4" value="Iran-Iraq War" />
         </attvalues>
       </edge>
       <edge id="21" source="China" target="Vietnam">
         <attvalues>
-          <attvalue for="2" value="13.0" />
+          <attvalue for="2" value="11.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="Sino-Vietnamese conflicts 1979-1990" />
         </attvalues>
       </edge>
       <edge id="22" source="China" target="India">
         <attvalues>
-          <attvalue for="2" value="2.0" />
+          <attvalue for="2" value="0.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="1987 Sino-Indian skirmish" />
         </attvalues>
       </edge>
       <edge id="23" source="China" target="Soviet Union">
         <attvalues>
-          <attvalue for="2" value="2.0" />
+          <attvalue for="2" value="0.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="Sino-Soviet border conflict" />
         </attvalues>
       </edge>
       <edge id="24" source="Thailand" target="Cambodia">
         <attvalues>
-          <attvalue for="2" value="6.0" />
-          <attvalue for="3" value="44.0" />
+          <attvalue for="2" value="4.0" />
+          <attvalue for="3" value="42.0" />
           <attvalue for="4" value="Cambodian-Thai border dispute" />
         </attvalues>
       </edge>
       <edge id="25" source="Mauritania" target="Senegal">
         <attvalues>
-          <attvalue for="2" value="4.0" />
+          <attvalue for="2" value="2.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="Mauritania-Senegal Border War" />
         </attvalues>
       </edge>
       <edge id="26" source="North Korea" target="South Korea">
         <attvalues>
-          <attvalue for="2" value="5.0" />
-          <attvalue for="3" value="2419012.0" />
+          <attvalue for="2" value="3.0" />
+          <attvalue for="3" value="2419010.0" />
           <attvalue for="4" value="Korean War" />
         </attvalues>
       </edge>
       <edge id="27" source="Japan" target="Soviet Union">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="16002.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="16000.0" />
           <attvalue for="4" value="Battle of Khalkhin Gol" />
         </attvalues>
       </edge>
       <edge id="28" source="Pakistan" target="India">
         <attvalues>
-          <attvalue for="2" value="2.0" />
-          <attvalue for="3" value="4502.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="4500.0" />
           <attvalue for="4" value="Kargil War" />
         </attvalues>
       </edge>
       <edge id="29" source="Angola" target="South Africa">
         <attvalues>
-          <attvalue for="2" value="25.0" />
+          <attvalue for="2" value="23.0" />
           <attvalue for="3" value="1" />
           <attvalue for="4" value="South African Border War" />
         </attvalues>
       </edge>
       <edge id="30" source="Mexico" target="United States">
         <attvalues>
-          <attvalue for="2" value="10.0" />
-          <attvalue for="3" value="102.0" />
+          <attvalue for="2" value="8.0" />
+          <attvalue for="3" value="100.0" />
           <attvalue for="4" value="Border War" />
         </attvalues>
       </edge>
